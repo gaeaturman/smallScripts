@@ -1,0 +1,1 @@
+TTHERM_000000023	None	None	transmembrane protein putative	No Data fetched for Gene Ontology Annotations	No Data fetched for Associated Literature
